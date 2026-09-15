@@ -1,10 +1,12 @@
+//4) Write a program to verify the given two domain name are same or not?
+
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
 public class Q4DomainNameVerifier {
     public static void main(String[] args) {
-        String domain1 = "www.ibiblio.org";
-        String domain2 = "helios.ibiblio.org";
+        String domain1 = "www.abhinavsapkota.com.np";
+        String domain2 = "www.google.com";
 
         try {
             InetAddress address1 = InetAddress.getByName(domain1);
