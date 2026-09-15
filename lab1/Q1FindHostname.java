@@ -1,7 +1,7 @@
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
-public class FindHostname {
+public class Q1FindHostname {
     public static void main(String[] args) {
         String ipAddress = "8.8.8.8";
 
