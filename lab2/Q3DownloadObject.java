@@ -5,7 +5,7 @@ import java.net.*;
 
 public class Q3DownloadObject {
     public static void main(String[] args) {
-        String address = "https://www.example.com/image.jpg";
+        String address = "https://abhinavsapkota.com.np";
         String fileName = "downloaded.jpg";
 
         try {
